@@ -20,6 +20,8 @@
 
 ## WordPress Plugins
 
+I currently maintain six plugins on [WordPress.org](https://profiles.wordpress.org/wildworks/).
+
 | Plugin | Description |
 | --- | --- |
 | [Flexible Table Block](https://wordpress.org/plugins/flexible-table-block/) | Table block with cell merging, detailed styling, and responsive support |
