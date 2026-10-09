@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aki Hamano 👋</h1>
+<h1 align="center">Hi, I'm Aki Hamano</h1>
 
 <p align="center">
   WordPress Core Committer / Gutenberg contributor from Japan
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔌 WordPress Plugins
+## WordPress Plugins
 
 | Plugin | Description | Installs |
 | --- | --- | --- |
@@ -27,7 +27,7 @@
 | [Flexible Spacer Block](https://wordpress.org/plugins/flexible-spacer-block/) | Spacer block with separate heights for desktop, tablet, and mobile | 4,000+ |
 | [Enable Responsive Image](https://wordpress.org/plugins/enable-responsive-image/) | Adds per-breakpoint image sources to the Image block | 1,000+ |
 | [RichText Extension](https://wordpress.org/plugins/richtext-extension/) | Adds highlighter, font size, and more formats to the RichText toolbar | 900+ |
-| [Piano Block](https://wordpress.org/plugins/piano-block/) | Play the piano inside the block editor 🎹 | 100+ |
+| [Piano Block](https://wordpress.org/plugins/piano-block/) | Play the piano inside the block editor | 100+ |
 
 ---
 
