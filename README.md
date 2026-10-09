@@ -30,9 +30,3 @@ I currently maintain six plugins on [WordPress.org](https://profiles.wordpress.o
 | [Enable Responsive Image](https://wordpress.org/plugins/enable-responsive-image/) | Adds per-breakpoint image sources to the Image block |
 | [RichText Extension](https://wordpress.org/plugins/richtext-extension/) | Adds highlighter, font size, and more formats to the RichText toolbar |
 | [Piano Block](https://wordpress.org/plugins/piano-block/) | Play the piano inside the block editor |
-
----
-
-<p align="center">
-  <a href="https://profiles.wordpress.org/wildworks/">WordPress.org</a>
-</p>
