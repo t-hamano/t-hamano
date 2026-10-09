@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Aki Hamano 👋</h1>
 
 <p align="center">
-  WordPress Core Committer / Gutenberg contributor from Japan 🇯🇵
+  WordPress Core Committer / Gutenberg contributor from Japan
 </p>
 
 ---
 
-## 🧱 MarkBricks
+## MarkBricks
 
 **A visual Markdown editor powered by the WordPress block editor experience.**
 
-- 🧩 Block-based editing for `.md` files, with your original syntax preserved
-- ⌨️ Monaco source mode, live Mermaid / KaTeX previews, Marp slides
-- 💻 Desktop app (Windows / macOS / Linux) and VS Code extension
+- Block-based editing for Markdown files, with your original syntax preserved
+- Monaco source mode, live Mermaid / KaTeX previews, Marp slides
+- Desktop app (Windows / macOS / Linux) and VS Code extension
 
-[**Try it →**](https://t-hamano.github.io/mark-bricks/) &nbsp;·&nbsp; [GitHub](https://github.com/t-hamano/mark-bricks)
+[Website](https://t-hamano.github.io/mark-bricks/) &nbsp;·&nbsp; [GitHub](https://github.com/t-hamano/mark-bricks)
 
 ---
 
