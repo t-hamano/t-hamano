@@ -8,6 +8,8 @@
 
 ## MarkBricks
 
+![MarkBricks](https://raw.githubusercontent.com/t-hamano/mark-bricks/HEAD/apps/site/public/social-card.png)
+
 **A visual Markdown editor powered by the WordPress block editor experience.**
 
 [Website](https://t-hamano.github.io/mark-bricks/) &nbsp;·&nbsp; [GitHub](https://github.com/t-hamano/mark-bricks)
@@ -16,6 +18,8 @@
 
 ## Minidit
 
+![Minidit](https://raw.githubusercontent.com/t-hamano/minidit/HEAD/.github/assets/social-preview.png)
+
 **A lightweight, simple text editor for note-taking on Windows and macOS.**
 
 [GitHub](https://github.com/t-hamano/minidit)
@@ -23,6 +27,8 @@
 ---
 
 ## Tuttibox
+
+![Tuttibox](https://raw.githubusercontent.com/t-hamano/tuttibox/HEAD/docs/hero.png)
 
 **A lightweight desktop app for Windows and macOS that brings your web apps into one window.**
 
