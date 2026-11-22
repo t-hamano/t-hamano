@@ -8,7 +8,7 @@
 
 ## MarkBricks
 
-![MarkBricks](https://raw.githubusercontent.com/t-hamano/mark-bricks/HEAD/apps/site/public/social-card.png)
+![MarkBricks](https://raw.githubusercontent.com/t-hamano/mark-bricks/HEAD/.github/assets/social-preview.png)
 
 **A visual Markdown editor powered by the WordPress block editor experience.**
 
