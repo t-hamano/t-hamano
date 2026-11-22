@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aki Hamano</h1>
+<h1 align="center">Hi, I'm Aki Hamano 👋</h1>
 
 <p align="center">
   WordPress Core Committer / Gutenberg contributor from Japan
