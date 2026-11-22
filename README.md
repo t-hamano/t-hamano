@@ -10,11 +10,23 @@
 
 **A visual Markdown editor powered by the WordPress block editor experience.**
 
-- Block-based editing for Markdown files, with your original syntax preserved
-- Monaco source mode, live Mermaid / KaTeX previews, Marp slides
-- Desktop app (Windows / macOS / Linux) and VS Code extension
-
 [Website](https://t-hamano.github.io/mark-bricks/) &nbsp;·&nbsp; [GitHub](https://github.com/t-hamano/mark-bricks)
+
+---
+
+## Minidit
+
+**A lightweight, simple text editor for note-taking on Windows and macOS.**
+
+[GitHub](https://github.com/t-hamano/minidit)
+
+---
+
+## Tuttibox
+
+**A lightweight desktop app for Windows and macOS that brings your web apps into one window.**
+
+[GitHub](https://github.com/t-hamano/tuttibox)
 
 ---
 
